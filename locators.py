@@ -1,0 +1,18 @@
+LK = ".//p[text()='Личный Кабинет']"
+CONSTRUCTOR = ".//p[text()='Конструктор']"
+REGISTRATION_LINK = 'Auth_link__1fOlj'
+ACCOUNT_BUTTON = 'button_button__33qZ0'
+RESTORE_PASSWORD = ".//a[text()='Восстановить пароль']"
+PASSWORD_INPUT = "//label[text()='Пароль']/following-sibling::input"
+EMAIL_INPUT = "//label[text()='Email']/following-sibling::input"
+NAME_INPUT = "//label[text()='Имя']/following-sibling::input"
+REGISTRATION_BUTTON = ".//button[text()='Зарегистрироваться']"
+ENTER_BUTTON = ".//button[text()='Войти']"
+BUNS_ELEMENTS = "html/body/div/div/main/section/div/div/span[@class='tab_tab__1SPyG']"
+CSS_SELECTOR = "#root > div > header > nav > div > a > svg"
+FILLINGS_ELEMENTS = "html/body/div/div/main/section/div/div/span[@class='tab_tab__1SPyG']"
+IMG_FILLING = "//img[@src='https://code.s3.yandex.net/react/code/meat-02.png']"
+SAUCE_ELEMENTS = "html/body/div/div/main/section/div/div/span[@class='tab_tab__1SPyG']"
+IMG_SAUCE = "//img[@src='https://code.s3.yandex.net/react/code/sauce-02.png']"
+EXIT_BUTTON = "//button[contains(@class, 'Account_button__14Yp3') and text()='Выход']"
+AUTH_DIV = "Auth_login__3hAey"
